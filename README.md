@@ -84,3 +84,27 @@ If you would like to contribute to this project, please fork the repository and 
 ## License
 
 This project is licensed under the MIT License.
+
+## Env
+
+HOST=0.0.0.0
+
+PORT=1337
+
+APP_KEYS=YOUR_APP_KEYS
+
+API_TOKEN_SALT=YOUR_API_TOKEN_SALT
+
+ADMIN_JWT_SECRET=YOUR_ADMIN_JWT_SECRET
+
+TRANSFER_TOKEN_SALT=YOUR_TRANSFER_TOKEN_SALT
+
+JWT_SECRET=YOUR_JWT_SECRET
+
+# Urls
+
+STRIPE_KEY=YOUR_STRIPE_KEY
+
+CLIENT_URL=http://localhost:3000
+
+STRIPE_WEBHOOK_SECRET=YOUR_STRIPE_WEBHOOK_SECRET
