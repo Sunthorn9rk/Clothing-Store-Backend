@@ -2,6 +2,12 @@
 
 This is the backend project for the E-Commerce Clothing Store. The project is built using Node.js, Express, and MongoDB. It provides APIs for managing products, users, orders, and more.
 
+## Frontend
+https://github.com/Sunthorn9rk/Clothing-Store-Frontend
+
+## Backend
+https://github.com/Sunthorn9rk/Clothing-Store-Backend
+
 ## Installation
 
 1. Clone the repository:
