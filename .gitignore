@@ -1,0 +1,35 @@
+# 📂 Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+
+# 📂 Environment variables
+.env
+.env.local
+.env.development
+.env.production
+
+# 📂 Logs
+logs/
+*.log
+yarn-debug.log*
+yarn-error.log*
+
+# 📂 Build & Temp files
+dist/
+build/
+.cache/
+.tmp/
+coverage/
+.DS_Store
+
+# 📂 Uploads & Public files
+uploads/
+public/uploads/
+
+# 📂 Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
